@@ -1,0 +1,5 @@
+C:\Users\coolzer0\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\coolzer0\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\coolzer0\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\coolzer0\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\coolzer0\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
